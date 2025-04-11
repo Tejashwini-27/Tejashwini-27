@@ -56,7 +56,4 @@ I'm a Computer Science Engineering student passionate about building intelligent
 🔗 [LinkedIn](https://www.linkedin.com/in/tejashwinireddy)  
 🐱 [GitHub](https://github.com/TejashwiniReddy) *(Make sure to update your actual GitHub username if different)*  
 
----
-
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 
